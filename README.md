@@ -1,3 +1,3 @@
-# This is ACSN server status' repository.
+# This is ACSN server status page's repository.
 
 [STATUS](https://status.acsn.cn)
